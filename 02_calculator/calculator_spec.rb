@@ -10,7 +10,7 @@
 # you will build a simple calculator script with the following methods:
 #
 # `add` takes two parameters and adds them
-#
+# 
 # `subtract` takes two parameters and subtracts the second from the first
 #
 # `sum` takes an *array* of parameters and adds them all together
